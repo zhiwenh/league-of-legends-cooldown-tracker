@@ -2,6 +2,8 @@
 
 League of Legends Cooldown Tracker pulls in your current game info and allows you to track all the spell and summoner spells of your opponents. It lets you adjust spell levels and cooldown percentages for perfect timers to any ability.
 
+### Images
+
 <img src="Screenshot_20190514-132029_lolcooldown.jpg" width="300">
 
 <img src="Screenshot_20190514-132021_lolcooldown.jpg" width="300">
