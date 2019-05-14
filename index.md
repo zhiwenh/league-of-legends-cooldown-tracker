@@ -1,6 +1,6 @@
 ## League of Legends Cooldown Tracker
 
-League of Legends Cooldown Tracker pulls in your current gamne info and allows you to track all the spell and summoner spells of your opponents.
+League of Legends Cooldown Tracker pulls in your current game info and allows you to track all the spell and summoner spells of your opponents.
 
 ![Image](https://github.com/zhiwenh/league-of-legends-cooldown-tracker/blob/master/Screenshot_20190514-132029_lolcooldown.jpg)
 
