@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## League of Legends Cooldown Tracker
 
-You can use the [editor on GitHub](https://github.com/zhiwenh/league-of-legends-cooldown-tracker/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+League of Legends Cooldown Tracker pulls in your current gamne info and allows you to track all the spell and summoner spells of your opponents.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://github.com/zhiwenh/league-of-legends-cooldown-tracker/blob/master/Screenshot_20190514-132029_lolcooldown.jpg)
 
-### Markdown
+### Legal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"League of Legends Cooldown Tracker" isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhiwenh/league-of-legends-cooldown-tracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
