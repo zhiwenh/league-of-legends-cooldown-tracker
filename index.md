@@ -5,20 +5,12 @@ League of Legends Cooldown Tracker pulls in your current game info to allow you 
 ## Images
 
 <img src="lolcooldown1.jpg" width="300">
-
-<div height="30></div>
              
 <img src="lolcooldown2.jpg" width="300">
-
-<div height="30></div>
              
 <img src="lolcooldown3.jpg" width="300">
-
-<div height="30></div>
              
 <img src="lolcooldown4.jpg" width="300">
-
-<div height="30></div>
              
 <img src="lolcooldown5.jpg" width="300">
 
