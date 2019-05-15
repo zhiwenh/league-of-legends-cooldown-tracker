@@ -6,6 +6,8 @@ League of Legends Cooldown Tracker pulls in your current game info to allow you 
 
 <img src="lolcooldown1.jpg" width="300">
 
+<div height="30></div>
+             
 <img src="lolcooldown2.jpg" width="300">
 
 <img src="lolcooldown3.jpg" width="300">
