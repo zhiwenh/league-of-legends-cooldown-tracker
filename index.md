@@ -4,15 +4,15 @@ League of Legends Cooldown Tracker pulls in your current game info to allow you 
 
 ## Images
 
-<img src="lolcooldown1.jpg" width="300">
+<img src="lol-cooldown1.jpg" width="300">
              
-<img src="lolcooldown2.jpg" width="300">
+<img src="lol-cooldown2.jpg" width="300">
              
-<img src="lolcooldown3.jpg" width="300">
+<img src="lol-cooldown3.jpg" width="300">
              
-<img src="lolcooldown4.jpg" width="300">
+<img src="lol-cooldown4.jpg" width="300">
              
-<img src="lolcooldown5.jpg" width="300">
+<img src="lol-cooldown5.jpg" width="300">
 
 
 ## Legal Information
