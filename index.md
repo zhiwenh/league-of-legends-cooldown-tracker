@@ -4,10 +4,9 @@ League of Legends Cooldown Tracker pulls in your current game info to allow you 
 
 ## Images
 
-### Your current match
-
 <img src="Screenshot_20190523-155734_lolcooldown.jpg" width="300" align="center">
 
+### Your current match
 
 <img src="Screenshot_20190523-155802_lolcooldown.jpg" width="300" align="center">
 
