@@ -19,7 +19,7 @@ League of Legends Cooldown Tracker pulls in your current game info to allow you 
 
 <img src="Screenshot_20190523-155830_lolcooldown.jpg" width="300" align="center">
 
-### Manual adjust
+### Manual input
 
 <img src="Screenshot_20190523-155836_lolcooldown.jpg" width="300" align="center">
 
