@@ -23,6 +23,8 @@ League of Legends Cooldown Tracker pulls in your current game info to allow you 
 
 <img src="Screenshot_20190523-155836_lolcooldown.jpg" width="300" align="center">
 
+## Download
+https://play.google.com/store/apps/details?id=com.lolcooldown
 
 ## Legal Information
 
