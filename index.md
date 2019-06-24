@@ -20,7 +20,7 @@ https://play.google.com/store/apps/details?id=com.lolcooldown
 <img src="Screenshot_20190618-213321_League Cooldown.jpg" width="300" align="center">
 
 
-<img src="Screenshot_20190618-213325_League Cooldown,jpg" width="300" align="center">
+<img src="Screenshot_20190618-213325_League Cooldown.jpg" width="300" align="center">
 
 ### Manual input
 
