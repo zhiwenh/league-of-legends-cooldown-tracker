@@ -7,24 +7,24 @@ https://play.google.com/store/apps/details?id=com.lolcooldown
 
 ## Images
 
-<img src="Screenshot_20190523-155734_lolcooldown.jpg" width="300" align="center">
+<img src="Screenshot_20190618-213112_League Cooldown.jpg" width="300" align="center">
 
 ### Your current match
 
-<img src="Screenshot_20190523-155802_lolcooldown.jpg" width="300" align="center">
+<img src="Screenshot_20190618-213212_League Cooldown.jpg" width="300" align="center">
 
 
-<img src="Screenshot_20190523-155811_lolcooldown.jpg" width="300" align="center">
+<img src="Screenshot_20190618-213316_League Cooldown.jpg" width="300" align="center">
 
 
-<img src="Screenshot_20190523-155821_lolcooldown.jpg" width="300" align="center">
+<img src="Screenshot_20190618-213321_League Cooldown.jpg" width="300" align="center">
 
 
-<img src="Screenshot_20190523-155830_lolcooldown.jpg" width="300" align="center">
+<img src="Screenshot_20190618-213325_League Cooldownjpg" width="300" align="center">
 
 ### Manual input
 
-<img src="Screenshot_20190523-155836_lolcooldown.jpg" width="300" align="center">
+<img src="Screenshot_20190618-214315_League Cooldown.jpg" width="300" align="center">
 
 
 ## Legal Information
